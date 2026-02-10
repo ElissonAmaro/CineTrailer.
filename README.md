@@ -99,6 +99,10 @@ apiFilmes/
 
 ## 🔌 API do TMDB
 
+Documentacao oficial: https://www.themoviedb.org/documentation/api
+
+E necessario criar uma conta na TMDB para obter a sua API key.
+
 A aplicação utiliza os seguintes endpoints:
 
 - **GET** `/movie/popular` - Lista os filmes mais populares
