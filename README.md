@@ -56,7 +56,7 @@ npm install
 Exemplo no `src/App.jsx`:
 
 ```jsx
-const API_KEY = 'sua chave_aqui'; // Substitua pela sua chave da API do TMDb
+const API_KEY = "sua chave_aqui"; // Substitua pela sua chave da API do TMDb
 ```
 
 4. **Execute o projeto**
@@ -84,9 +84,9 @@ http://localhost:5173
 
 ```
 apiFilmes/
-├── public/             
+├── public/
 ├── src/
-│   ├── assets/         
+│   ├── assets/
 │   ├── App.jsx         # Componente principal
 │   ├── App.css         # Estilos do componente App
 │   ├── main.jsx        # Ponto de entrada
@@ -118,7 +118,7 @@ A aplicação utiliza os seguintes endpoints:
 
 ## 📸 Preview
 
-![CineTrailer Preview](./src/assets/image.png)
+![CineTrailer Preview](src/assets/image.png)
 
 A interface apresenta:
 
@@ -134,17 +134,13 @@ A interface apresenta:
 - Implementar um backend proxy
 - Configurar restrições de domínio na TMDB
 
-
-
 ## 📄 Licença
 
 Este é um projeto educacional/demonstrativo.
 
-
-
 ## 👨‍💻 Autor: Elisson
 
-Desenvolvido com  usando React + Vite
+Desenvolvido com usando React + Vite
 
 ---
 
