@@ -118,6 +118,8 @@ A aplicação utiliza os seguintes endpoints:
 
 ## 📸 Preview
 
+![CineTrailer Preview](./src/assets/image.png)
+
 A interface apresenta:
 
 - Header com título e descrição
