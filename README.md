@@ -126,19 +126,15 @@ A interface apresenta:
 - Grid responsiva de cards de filmes
 - Cada card contém: pôster, título, sinopse e trailer
 
-## 🔐 Segurança
 
-⚠️ **Importante**: A API key está exposta no código. Para produção, considere:
 
-- Usar variáveis de ambiente (`.env`)
-- Implementar um backend proxy
-- Configurar restrições de domínio na TMDB
+
 
 ## 📄 Licença
 
 Este é um projeto educacional/demonstrativo.
 
-## 👨‍💻 Autor: Elisson
+##  Autor: Elisson
 
 Desenvolvido com usando React + Vite
 
